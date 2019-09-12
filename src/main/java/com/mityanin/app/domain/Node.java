@@ -5,7 +5,7 @@ import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.annotation.JsonManagedReference;
 import com.mityanin.app.converters.URLConverter;
-import com.mityanin.com.mityanin.app.scraping.RelTypes;
+import com.mityanin.app.scraping.RelTypes;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
 import org.neo4j.ogm.annotation.GeneratedValue;
